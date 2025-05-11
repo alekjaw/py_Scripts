@@ -4,7 +4,7 @@ url = 'https://www.youtube.com/watch?v=1D6RqvT4t2o'
 
 ydl_opts = {
     'format': 'best',
-    'outtmpl': r'C:\Users\Alek\Desktop\HEMISYNC.MP4',
+    'outtmpl': r'C:\Users\Alek\Desktop\video.mp4',
     'noplaylist': True,
 }
 
